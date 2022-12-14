@@ -6,4 +6,4 @@
 //
 //
 //import Foundation
-//배열
+//print("test")

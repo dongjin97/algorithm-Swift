@@ -18,7 +18,6 @@
 		F885601928D82C940057DA04 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F885601828D82C940057DA04 /* main.swift */; };
 		F885602428D835740057DA04 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F885602328D835740057DA04 /* main.swift */; };
 		F888BE6828E98FA400D0C9B9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F888BE6728E98FA400D0C9B9 /* main.swift */; };
-		F88A643B292BA9450061DA14 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88A643A292BA9450061DA14 /* main.swift */; };
 		F8B193F828E8516B00BE3189 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B193F728E8516B00BE3189 /* main.swift */; };
 		F8BC77F028D1EEA100713A2A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8BC77EF28D1EEA100713A2A /* main.swift */; };
 		F8BC77FD28D1EECB00713A2A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8BC77FC28D1EECB00713A2A /* main.swift */; };
@@ -216,7 +215,6 @@
 		F888BE6528E98FA400D0C9B9 /* problem2309 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = problem2309; sourceTree = BUILT_PRODUCTS_DIR; };
 		F888BE6728E98FA400D0C9B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F88A6438292BA9450061DA14 /* Problem2526 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problem2526; sourceTree = BUILT_PRODUCTS_DIR; };
-		F88A643A292BA9450061DA14 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F8B193F528E8516B00BE3189 /* Problem8958 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problem8958; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8B193F728E8516B00BE3189 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F8BC77EC28D1EEA000713A2A /* ArrayProblem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ArrayProblem; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -452,7 +450,6 @@
 			isa = PBXGroup;
 			children = (
 				F84F939B2924E1F60034CF1F /* main.swift */,
-				F88A643A292BA9450061DA14 /* main.swift */,
 			);
 			path = Problem2526;
 			sourceTree = "<group>";
@@ -1058,7 +1055,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F83644F4292C762E00830B47 /* main.swift in Sources */,
-				F88A643B292BA9450061DA14 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
